@@ -1,0 +1,21 @@
+{
+  "version": "2",
+  "remote": {
+    "https://deno.land/x/fast@5.4.0/app.ts": "56b62ccb9ebb86d3b1b13982578b33fe6b97a719dad4ab8618b280db4ac219ac",
+    "https://deno.land/x/fast@5.4.0/context.ts": "d77378a4f48342952a4a67969cc5038a2d400744dfb9b7ccfdd92e62d35cad20",
+    "https://deno.land/x/fast@5.4.0/decode.ts": "e170e2863733619e0e921cffe2458c0d66deedc73fd72cb3af0e3fa809148875",
+    "https://deno.land/x/fast@5.4.0/mod.ts": "f106af03ba111be0cc55d6976292beb4499053eaf1da5a8c37ea56bee94d69e1",
+    "https://deno.land/x/fast@5.4.0/types.ts": "ff951a163e558b83ea3f9e1a854114cd8a1bfb1849c95b40fc0b1f144d02def2"
+  },
+  "npm": {
+    "specifiers": {
+      "country-state-city": "country-state-city@3.2.1"
+    },
+    "packages": {
+      "country-state-city@3.2.1": {
+        "integrity": "sha512-kxbanqMc6izjhc/EHkGPCTabSPZ2G6eG4/97akAYHJUN4stzzFEvQPZoF8oXDQ+10gM/O/yUmISCR1ZVxyb6EA==",
+        "dependencies": {}
+      }
+    }
+  }
+}
